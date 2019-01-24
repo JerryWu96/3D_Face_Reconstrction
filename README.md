@@ -45,17 +45,18 @@ By implementing the texture extraction API, combined with Dlib face landmark det
 
 Here comes the most challanging part.
 
-`First, we need to fit the original model to different face image, adjust its surface parameters in order to present more natural and realistic outputs.
+* First, we need to fit the original model to different face image, adjust its surface parameters in order to present more natural and realistic outputs.
 
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/fitted_models_1.jpeg"></img>
 
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/fitted_models_2.jpeg"></img>
 
-`Second, Given an extracted texture of the face, the surrey face model, we need to make a mapping between the coordinates from a 2D image to a 3D model.
+* Second, Given an extracted texture of the face, the surrey face model, we need to make a mapping between the coordinates from a 2D image to a 3D model.
 
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/models_with_texture.jpeg"></img>
 
-Here are some final samples along with their outputs: 
+Here are some final samples along with their outputs:
+
 <img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_1.png”></img>
 <img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/output_1.png”></img>
 <img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_2.png”></img>
