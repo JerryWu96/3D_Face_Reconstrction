@@ -8,8 +8,9 @@ http://dlib.net
 Here is the face landmark detection part. By selecting 68 landmarks, a face could be identified and located in the image. 
 ![alt text](https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/face_landmarks.jpeg)
 
-Given th input photo as follows:
-https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_4.png
+Given the input sample photo:
+![alt text](https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_4.png)
 By running face detection module, th program identified the front face and its location.
-https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/obj_model_viewer_1.png
+![alt text](https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/obj_model_viewer_1.png)
+
 
