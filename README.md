@@ -14,6 +14,7 @@ The model viewer UI, with sliders you could adjust the model angles from any deg
 OpenCV -> OpenGL -> dlib -> eos -> QT
 
 referenced Libraries: 
+
 https://github.com/patrikhuber/eos
 
 http://dlib.net
