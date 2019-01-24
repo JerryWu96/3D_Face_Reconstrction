@@ -5,8 +5,12 @@ I built this out of my personal interst in 2018 in my free time as a senior CS s
 This program is able to reconstruct a 3D face model from a single front-face image with the help of C++, QT, OpenGL, OpenCV, eos/dlib libraries and surrey face model. 
 The UI was implemented using C++ QT, and when i have time, it deserves some refinements!
 
-Libraries:
+* In order to compile the program, you need to configure the following dependencies in order:
+OpenCV -> OpenGL -> dlib -> eos -> QT
+
+referenced Libraries: 
 https://github.com/patrikhuber/eos
+
 http://dlib.net
 
 
