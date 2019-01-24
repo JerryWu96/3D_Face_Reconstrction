@@ -11,6 +11,7 @@ The model viewer UI, with sliders you could adjust the model angles from any deg
 
 ## Dependencies
 * In order to compile the program, you need to configure the following dependencies in order:
+
 OpenCV -> OpenGL -> dlib -> eos -> QT
 
 referenced Libraries: 
