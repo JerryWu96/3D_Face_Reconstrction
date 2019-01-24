@@ -1,6 +1,6 @@
 # 3D Face Reconstrction - Personal Project
 
-I built this out of my personal interst in 2018 during my free time as a senior CS student. 
+I built this out of my personal interst in 2018 in my free time as a senior CS student. 
 
 This program is able to reconstruct a 3D face model from a single front-face image with the help of C++, QT, OpenGL, OpenCV, eos/dlib libraries and surrey face model. 
 The UI was implemented using C++ QT, and when i have time, it deserves some refinements!
