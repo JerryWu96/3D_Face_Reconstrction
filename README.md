@@ -10,6 +10,7 @@ Here is the face landmark detection part. By selecting 68 landmarks, a face coul
 
 Given the input sample photo:
 ![alt text](https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_4.png)
+
 By running face detection module, th program identified the front face and its location.
 ![alt text](https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/obj_model_viewer_1.png)
 
