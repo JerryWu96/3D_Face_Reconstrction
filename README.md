@@ -34,12 +34,11 @@ By running face detection module, th program identified the front face and its l
 
 ## Texture Extraction
 
-The face texture could be presented in this sturcture:
-<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/texture_mesh.png"></img>
-
 By implementing the texture extraction API, combined with Dlib face landmark detection data, the texture can be extracted fro the original image.
 
-<img src:"https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/texture_sample.png"></img>
+The face texture could be presented in this sturcture:
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/texture_mesh.png"></img>
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/texture_sample.png"></img>
 
 ## Face Reconstruction
 
