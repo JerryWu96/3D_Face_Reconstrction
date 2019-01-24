@@ -52,17 +52,19 @@ Here comes the most challanging part.
 
 * Second, Given an extracted texture of the face, the surrey face model, we need to make a mapping between the coordinates from a 2D image to a 3D model.
 
+Here are some final outputs:
+
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/models_with_texture.jpeg"></img>
 
-Here are some final samples along with their outputs:
 
-<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_1.png”></img>
-<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/output_1.png”></img>
-<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_2.png”></img>
-<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/output_2.png”></img>
-<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_3.png”></img>
-<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/output_3.png”></img>
-<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_4.png”></img>
-<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/output_4.png”></img>
-<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_5.png”></img>
-<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/output_5.png”></img>
+
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_1.png"></img>
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/output_1.png"></img>
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_2.png"></img>
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/output_2.png"></img>
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_3.png"></img>
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/output_3.png"></img>
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_4.png"></img>
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/output_4.png"></img>
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_5.png"></img>
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/output_5.png"></img>
