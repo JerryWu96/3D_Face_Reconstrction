@@ -2,9 +2,14 @@
 
 I built this out of my personal interst in 2018 in my free time as a senior CS student. 
 
-This program is able to reconstruct a 3D face model from a single front-face image with the help of C++, QT, OpenGL, OpenCV, eos/dlib libraries and surrey face model. 
-The UI was implemented using C++ QT, and when i have time, it deserves some refinements!
+This program is able to reconstruct a 3D face model from a single front-face image with the help of C++, QT, OpenGL, OpenCV, eos/dlib libraries and surrey face model. Also, it automatically read the .obj file with its texture and display the full model in front of you right after the reconstruction process!
 
+The program UI was implemented using C++ QT. When i got time, it deserves some refinements!
+
+The model viewer UI, with sliders you could adjust the model angles from any degree!
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/obj_model_viewer_2.jpeg"></img>
+
+## Dependencies
 * In order to compile the program, you need to configure the following dependencies in order:
 OpenCV -> OpenGL -> dlib -> eos -> QT
 
@@ -12,7 +17,6 @@ referenced Libraries:
 https://github.com/patrikhuber/eos
 
 http://dlib.net
-
 
 ## The Surrey Face Model
 
