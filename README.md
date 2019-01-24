@@ -1,4 +1,5 @@
 # 3D Face Reconstrction - Personal Project
+
 I built this out of my personal interst in 2018 during my free time as a senior CS student. 
 
 This program is able to reconstruct a 3D face model from a single front-face image with the help of C++, QT, OpenGL, OpenCV, eos/dlib libraries and surrey face model. 
@@ -40,3 +41,28 @@ By implementing the texture extraction API, combined with Dlib face landmark det
 
 <img src:"https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/texture_sample.png"></img>
 
+## Face Reconstruction
+
+Here comes the most challanging part.
+
+`First, we need to fit the original model to different face image, adjust its surface parameters in order to present more natural and realistic outputs.
+
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/fitted_models_1.jpeg"></img>
+
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/fitted_models_2.jpeg"></img>
+
+`Second, Given an extracted texture of the face, the surrey face model, we need to make a mapping between the coordinates from a 2D image to a 3D model.
+
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/models_with_texture.jpeg"></img>
+
+Here are some final samples along with their outputs: 
+<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_1.png”></img>
+<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/output_1.png”></img>
+<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_2.png”></img>
+<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/output_2.png”></img>
+<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_3.png”></img>
+<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/output_3.png”></img>
+<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_4.png”></img>
+<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/output_4.png”></img>
+<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_5.png”></img>
+<img src=“https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/output_5.png”></img>
