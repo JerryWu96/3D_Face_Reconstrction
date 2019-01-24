@@ -66,5 +66,3 @@ Here are some final outputs:
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_4.png"></img>
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/model_4.png"></img>
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_5.png"></img>
-<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/model_5.png"></img>
-/img>
