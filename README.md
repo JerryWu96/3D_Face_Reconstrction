@@ -71,7 +71,7 @@ Here are some final outputs:
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/model_1.png"></img>
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_2.png"></img>
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/model_2.png"></img>
-<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_3.png"></img>
-<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/model_3.png"></img>
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_4.png"></img>
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/model_4.png"></img>
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_3.png"></img>
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/model_3.png"></img>
