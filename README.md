@@ -63,7 +63,7 @@ Here comes the most challanging part.
 
 * Second, Given an extracted texture of the face, the surrey face model, we need to make a mapping between the coordinates from a 2D image to a 3D model.
 
-Here are some final outputs:
+Some final outputs:
 
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/models_with_texture.jpeg"></img>
 
