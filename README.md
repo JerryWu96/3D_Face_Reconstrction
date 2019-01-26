@@ -39,6 +39,7 @@ Given the input sample photo:
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_4.png"></img>
 
 By running face detection module, th program identified the front face and its outline and some interest points, e.g. nose and eyes.
+
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/obj_model_viewer_1.png"></img>
 
 
