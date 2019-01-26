@@ -40,7 +40,9 @@ Given the input sample photo:
 
 By running face detection module, th program identified the front face and its outline and some interest points, e.g. nose and eyes.
 
-<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/obj_model_viewer_1.png"></img>
+<img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/obj_model_vie
+
+r_1.png"></img>
 
 
 ## Texture Extraction
@@ -55,13 +57,14 @@ The face texture could be presented in this sturcture:
 
 Here comes the most challanging part.
 
-* First, we need to fit the original model to different face image, adjust its surface parameters in order to present more natural and realistic outputs.
+* First, the program fits the original model to different face image, adjusts its surface parameters in order to present more natural and realistic outputs.
 
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/fitted_models_1.jpeg"></img>
 
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/fitted_models_2.jpeg"></img>
 
-* Second, Given an extracted texture of the face, the surrey face model, we need to make a mapping between the coordinates from a 2D image to a 3D model.
+
+* Second, Given an extracted texture of the face and he surrey face model, the program calculates a mapping between the coordinates from a 2D image to a 3D model.
 
 Some final outputs:
 
