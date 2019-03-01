@@ -4,7 +4,7 @@ I built this out of my personal interst in 2018 in my free time as a senior CS u
 
 This program is able to reconstruct a 3D face model from a single front-face image with the help of C++, QT, OpenGL, OpenCV, eos/dlib libraries and surrey face model. Also, it automatically read the .obj file with its texture and display the full model in front of you right after the reconstruction process!
 
-The interactive UI was implemented using C++ QT. When i got time, it deserves some refinements!
+The interactive UI was implemented using C++ QT. It deserves some refinements when I have time.
 
 The model viewer UI, with sliders you could adjust the model angles from any degree!
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/obj_model_viewer_2.jpeg"></img>
