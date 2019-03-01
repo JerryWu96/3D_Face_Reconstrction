@@ -63,7 +63,7 @@ Here comes the most challanging part.
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/fitted_models_2.jpeg"></img>
 
 
-* Second, Given an extracted texture of the face and he surrey face model, the program calculates a mapping between the coordinates from a 2D image to a 3D model.
+* Secondly, given an extracted texture of the face and the surrey face model, the program calculates a mapping between the coordinates from a 2D image to a 3D model.
 
 Some final outputs:
 
