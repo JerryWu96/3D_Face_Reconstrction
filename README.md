@@ -10,6 +10,7 @@ Following is the model viewer UI, and you could adjust the model angles with sli
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/obj_model_viewer_2.jpeg"></img>
 
 ## Dependencies
+I used Visual Studio 2018 on Windows to do my project.
 * In order to compile the program, you need to configure the following dependencies in order:
 
 OpenCV -> OpenGL -> dlib -> eos -> QT
