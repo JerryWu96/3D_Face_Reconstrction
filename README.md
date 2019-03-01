@@ -6,7 +6,7 @@ This program is able to reconstruct a 3D face model from a single front-face ima
 
 The interactive UI was implemented using C++ QT. It deserves some refinements when I have time.
 
-The model viewer UI, with sliders you could adjust the model angles from any degree!
+Following is the model viewer UI, and you could adjust the model angles with sliders or drag with your mouse to adjust the pose of the model generated!
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/obj_model_viewer_2.jpeg"></img>
 
 ## Dependencies
