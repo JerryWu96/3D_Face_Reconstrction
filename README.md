@@ -46,7 +46,7 @@ By running face detection module, th program identified the front face and its o
 
 ## Texture Extraction
 
-By implementing the texture extraction API, combined with Dlib face landmark detection data, the texture can be extracted fro the original image.
+By implementing the texture extraction API, combined with Dlib face landmark detection data, the texture can be extracted fro m the original image.
 
 The face texture could be presented in this sturcture:
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/texture_mesh.png"></img>
