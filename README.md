@@ -33,6 +33,7 @@ The full model is available at [http://www.cvssp.org/facemodel](http://www.cvssp
 ## Face Landmark Detection
 
 Here is the face landmark detection part. By selecting 68 landmarks, a face could be identified and located in the image. 
+
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/face_landmarks.jpeg"></img>
 
 Given the input sample photo:
