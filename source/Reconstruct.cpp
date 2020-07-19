@@ -1,4 +1,4 @@
-﻿/**
+/**
 *  @Reconstruct函数
 *  利用eos库实现了：
 *  1 读取形变模型，进行2D-3D坐标对应关系的处理
@@ -95,6 +95,7 @@ bool Reconstruct()
 
 
 	// 读取形变模型
+    // Special note here: sfm_shape_16759 and sfm_shape_29587 are not publicly available. I am not permitted to upload them here directly, but sfm_shape_3448.bin is good to go. Please email them for higher-resolution models. Their contacts could be found in my README.md
 	morphablemodel::MorphableModel morphable_model;
 	try
 	{
@@ -124,8 +125,7 @@ bool Reconstruct()
 		morphable_model = morphablemodel::load_model("sfm_shape_29587.bin");
 		}
 		*/
-		//morphable_model = morphablemodel::load_model("sfm_shape_3448.bin");
-		morphable_model = morphablemodel::load_model("sfm_shape_16759.bin");
+        morphable_model = morphablemodel::load_model("sfm_shape_3448.bin");
 	}
 	catch (const std::runtime_error& e)
 	{
