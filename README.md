@@ -15,6 +15,10 @@ I used Visual Studio 2018 on Windows to do my project.
 
 OpenCV -> OpenGL -> dlib -> eos -> Qt
 
+- you could find the following two files in dependencies folder:
+  - dlib_to_sfm.txt: mapping bettween dlib and sfm model
+  - expression_blendshapes_3448.bin: basic sfm model. 
+
 * referenced Libraries: 
 
 https://github.com/patrikhuber/eos
@@ -27,7 +31,7 @@ I used a shape-only version of the Surrey Morphable Face Model as the skeleton o
 
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sfm_shape_3448_mesh.png" width=20% alt="Surrey Face Model shape picture"></img>
 
-The full model is available at [http://www.cvssp.org/facemodel](http://www.cvssp.org/facemodel).
+The full models with higher resolution are available at [http://www.cvssp.org/facemodel](http://www.cvssp.org/facemodel).
 
 
 ## Face Landmark Detection
@@ -70,7 +74,6 @@ Some final outputs:
 
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/models_with_texture.jpeg"></img>
 
-
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_1.png"></img>
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/model_1.png"></img>
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_2.png"></img>
@@ -79,3 +82,11 @@ Some final outputs:
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/model_4.png"></img>
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/sample_3.png"></img>
 <img src="https://github.com/JerryWu96/3D_Face_Reconstrction/blob/master/program%20screenshots/model_3.png"></img>
+
+
+
+## Special Note
+
+You may have noticed that in Reconstruct.cpp, code that reads higher-resolution sfm model has been commented out, since these models are not publicly available, and i am not permitted to upload them here. They have updated their face model with new formats and python code to handle them, which i haven't looked into yet. My program uses a deprecated version. Please email them if you still want to get versions that are compatible with my program.
+
+Currently I do not have the plan to use their new versions since it will add some extra overhead to the code.
