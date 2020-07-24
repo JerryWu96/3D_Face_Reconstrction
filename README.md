@@ -1,6 +1,6 @@
 # 3D Face Reconstrction - Personal Project
 
-I built this out of my personal interst back to 2018 when I was a senior undergraduate in Compute Science. The total time that i spent on this project was a week.
+I built this out of my personal interest back to 2018 when I was a senior undergraduate in Compute Science. The total time that i spent on this project was a week.
 
 The main goal of the program is to reconstruct a 3D face model from a single front-face image with the help of C++, QT, OpenGL, OpenCV, eos/dlib libraries and surrey face modesl. it extracts face texture, constructs a face model in.obj format, and reconstructs the full 3D model.
 
@@ -85,13 +85,13 @@ Some final outputs:
 
 
 
-## Special Note
+## Special Notice
 
 You may have noticed that in Reconstruct.cpp, code that reads higher-resolution sfm model has been commented out, since these models are not publicly available, and i am not permitted to upload them here. 
 
-Sometime in 2019, they have updated their face models with new formats and python code to handle them, which i haven't looked into yet. My program uses a deprecated version which was updated in 2018. Please email them if you still want to get versions that are compatible with my program. Their website is in Reference
+Back to 2019, the research team behind Surrey face model updated their models with new formats, as well as new python code to handle them, which i haven't looked into yet. My program uses a deprecated version which was updated in 2018. Please email them if you still want to get versions that are compatible with my program. 
 
-I have received more than 10 emails asking whether i will add support to the new Surrey face model. Note that currently I do not have the plan to use their new versions since it will add some extra overhead to the code. Please understand that this is a project i spent a week working on, and refactoring could take efforts since i no longer have any Windows laptop with me.
+I have received more than 10 emails asking whether i will add support to the new Surrey face model. Note that currently I do not have the plan to use their new versions since it will add some extra overhead to the code, and i haven't found real benefits in doing so. Please understand that this is a project i spent a week working on, and refactoring could take efforts since i no longer have any Windows laptop with me.
 
 However, i am happy to discuss with you the questions about the current code. It is up to you to decide if you would like to make it better:) 
 
